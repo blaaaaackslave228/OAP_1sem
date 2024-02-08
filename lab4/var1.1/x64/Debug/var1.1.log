@@ -1,0 +1,3 @@
+﻿  var1.1.cpp
+D:\Денис\лабы по оаипу\lab4\var1.1\var1.1.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  var1.1.vcxproj -> D:\Денис\лабы по оаипу\lab4\x64\Debug\var1.1.exe
