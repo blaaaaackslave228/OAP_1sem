@@ -1,0 +1,5 @@
+﻿  zad3.cpp
+D:\Денис\лабы по оаипу\lab06\zad3\zad3.cpp(10,11): warning C4305: инициализация: усечение из "double" в "float"
+D:\Денис\лабы по оаипу\lab06\zad3\zad3.cpp(18,22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Денис\лабы по оаипу\lab06\zad3\zad3.cpp(19,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  zad3.vcxproj -> D:\Денис\лабы по оаипу\lab06\x64\Debug\zad3.exe

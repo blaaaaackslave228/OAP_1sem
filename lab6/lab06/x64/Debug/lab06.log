@@ -1,0 +1,6 @@
+﻿  zad1.cpp
+D:\Денис\лабы по оаипу\lab06\lab06\zad1.cpp(10,10): warning C4305: инициализация: усечение из "double" в "float"
+D:\Денис\лабы по оаипу\lab06\lab06\zad1.cpp(10,19): warning C4305: инициализация: усечение из "double" в "float"
+D:\Денис\лабы по оаипу\lab06\lab06\zad1.cpp(14,21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Денис\лабы по оаипу\lab06\lab06\zad1.cpp(15,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  lab06.vcxproj -> D:\Денис\лабы по оаипу\lab06\x64\Debug\lab06.exe
